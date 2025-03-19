@@ -1,26 +1,6 @@
-# Mi Sitio Web
 
 Este sitio permite a los usuarios ingresar texto en una caja de texto y mostrarlo en una alerta al presionar la tecla Enter. 
 Además, incluye un botón que alterna el color de la caja de texto y del texto al hacer clic.
-
-## Estructura del Proyecto
-
-El proyecto tiene la siguiente estructura de archivos:
-
-```
-mi-sitio-web
-├── public
-│   ├── index.html       # Estructura HTML del sitio web
-│   ├── styles.css       # Estilos CSS para el sitio web
-│   └── app.js           # Código JavaScript para la interacción del usuario
-├── src
-│   ├── app.js           # Punto de entrada de la aplicación Express
-│   └── routes
-│       └── index.js     # Definición de rutas de la aplicación
-├── package.json          # Configuración de npm y dependencias
-├── .gitignore            # Archivos y carpetas a ignorar por Git
-└── README.md             # Documentación del proyecto
-```
 
 ## Instalación
 
